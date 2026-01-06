@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "sandbox402": {
+      "command": "npx.cmd",
+      "args": [
+        "-y",
+        "tsx",
+        "D:\\github\\sandbox402-core\\frontend\\mcp-server.ts"
+      ]
+    }
+  }
+}
